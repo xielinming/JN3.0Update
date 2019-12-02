@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.domainname.EJiangNan</string>
 				<key>bundle-version</key>
-				<string>1.1</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>江南大学</string>
+				<string>江南大学3.0</string>
 			</dict>
 		</dict>
 	</array>
